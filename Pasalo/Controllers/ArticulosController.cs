@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Pasalo.Data;
 using Pasalo.Models;
 
-namespace Pásalo.Controllers
+namespace Pasalo.Controllers
 {
     public class ArticulosController : Controller
     {
